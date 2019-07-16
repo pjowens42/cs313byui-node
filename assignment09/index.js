@@ -1,7 +1,5 @@
 /**
- * Christian Grant
- * 6/17/2017
- * Assignment 2 - Postal Rate Calculator
+ * Postal Rate Calculator
  */
 
 // Required modules
