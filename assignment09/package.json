@@ -1,0 +1,23 @@
+{
+  "name": "assignment_2",
+  "version": "1.0.0",
+  "engines": {
+    "node": "6.11.0"
+  },
+  "description": "Assignment 2 for CS313 using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Grant",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.6",
+    "express": "^4.15.3"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ]
+}
